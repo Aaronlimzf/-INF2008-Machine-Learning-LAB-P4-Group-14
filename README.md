@@ -25,7 +25,7 @@ Singapore generates approximately **7.39 million tonnes of waste annually**, yet
 
 A major contributor to this problem is the difficulty in **identifying recyclables** at the point of disposal. Many people are unsure whether an item belongs in the blue recycling bin or general waste, leading to **contamination in recycling streams**. Contaminated recyclables reduce processing efficiency and increase waste sent to **Semakau Landfill**, which is projected to reach full capacity by **2035** [(NEA, 2022)](https://www.straitstimes.com/singapore/singapore-recycling-rate-fell-to-52-in-2021-due-to-pandemic-disruptions).
 
-To address this issue, our project introduces an **AI-powered waste classification system integrated with a Telegram bot**. This allows users to **take a picture of their waste item**, receive an instant classification result, and get guidance on **proper disposal methods**.
+To address this issue, our project introduces an **waste classification system integrated with a Telegram bot**. This allows users to **take a picture of their waste item**, receive an instant classification result, and get guidance on **proper disposal methods**.
 
 ---
 
@@ -33,7 +33,7 @@ To address this issue, our project introduces an **AI-powered waste classificati
 To make the waste classification system more **accessible and user-friendly**, we integrate it with a **Telegram bot**. Users can **send a photo of a waste item**, and the bot will return:
 1. **Predicted Waste Category** (e.g., Plastic, Metal, Cardboard, etc.).
 2. **Recyclability Status** – Whether the item should go into the blue recycling bin or general waste.
-3. **Proper Disposal Instructions** – Based on Singapore’s National Recycling Guidelines.
+
 
 This approach ensures:
 - **Convenience** – Users can access the system anytime via their smartphone.
@@ -69,7 +69,7 @@ This approach ensures:
 ---
 
 ## Expected Impact
-By implementing this **AI-driven Telegram waste classification system**, we aim to:
+By implementing this **Telegram waste classification system**, we aim to:
 
 ✔ **Reduce improper waste disposal** and improve **recycling accuracy**.  
 ✔ Provide a **convenient tool** for Singapore residents to make **informed recycling decisions**.  
