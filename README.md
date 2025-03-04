@@ -12,8 +12,8 @@ The system classifies waste into six categories:
 - **Plastic** – Includes PET bottles, food containers, and plastic packaging.
 
 To achieve high classification accuracy, the project utilizes three machine learning algorithms:
-- **Multi-Layer Perceptron (MLP)** – A deep learning model that processes waste features through multiple neural network layers.
-- **Random Forest (RF)** – An ensemble learning method that builds multiple decision trees to improve classification reliability.
-- **Support Vector Machine (SVM)** – A powerful algorithm that finds the best decision boundary for waste classification.
+- **Multi-Layer Perceptron (MLP)**
+- **Random Forest (RF)**
+- **Support Vector Machine (SVM)** 
 
 The system processes waste data, trains models using machine learning, and predicts the waste category for proper disposal or recycling. This initiative aims to support waste management facilities, smart cities, and environmental sustainability programs by automating waste segregation processes.
