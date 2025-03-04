@@ -70,6 +70,7 @@ This approach ensures:
 
 ## Expected Impact
 By implementing this **AI-driven Telegram waste classification system**, we aim to:
+
 ✔ **Reduce improper waste disposal** and improve **recycling accuracy**.  
 ✔ Provide a **convenient tool** for Singapore residents to make **informed recycling decisions**.  
 ✔ Support Singapore’s **Green Plan 2030** and **Zero Waste Masterplan** by promoting sustainability.  
