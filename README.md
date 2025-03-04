@@ -7,7 +7,7 @@ The system classifies waste into six categories:
 - **Cardboard** – Used for packaging materials, boxes, and cartons.
 - **Glass** – Includes glass bottles, jars, and broken glassware.
 - **Metal** – Comprises aluminum cans, tin containers, and metallic scraps.
-- **Non-recyclable Waste** – Items that cannot be processed for recycling (e.g., contaminated or hazardous waste).
+- **Non-recyclable Waste** – Items that cannot be processed for recycling.
 - **Paper** – Newspapers, magazines, office paper, and paperboard.
 - **Plastic** – Includes PET bottles, food containers, and plastic packaging.
 
