@@ -1,7 +1,7 @@
 # Smart Waste Classification System for Recycling
 
 ## Description
-The **Smart Waste Classification System** is designed to identify and categorize waste items to determine their recyclability. With increasing global waste production, proper waste segregation plays a crucial role in environmental sustainability. This project leverages data-driven classification techniques to improve recycling efforts by accurately distinguishing between different types of waste.
+The **Smart Waste Classification System** is designed to identify and categorize waste items to determine their recyclability. With increasing waste production, proper waste segregation plays a crucial role in environmental sustainability. This project leverages data-driven classification techniques to improve recycling efforts by accurately distinguishing between different types of waste.
 
 The system classifies waste into six categories:
 - **Cardboard** – Used for packaging materials, boxes, and cartons.
@@ -23,9 +23,10 @@ The system helps users determine whether a waste item is recyclable or not by an
 ## Problem Statement
 Singapore generates approximately **7.39 million tonnes of waste annually**, yet only **55% is recycled** as of 2022 [(NEA, 2023)](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-statistics-and-overall-recycling). One of the main issues is **improper waste segregation**, where recyclable materials end up in general waste due to human error and lack of awareness.
 
-A major contributor to this problem is the difficulty in **identifying recyclables** at the point of disposal. Many people are unsure whether an item belongs in the blue recycling bin or general waste, leading to **contamination in recycling streams**. Contaminated recyclables reduce processing efficiency and increase waste sent to **Semakau Landfill**, which is projected to reach full capacity by **2035** [(NEA, 2022)](https://www.straitstimes.com/singapore/singapore-recycling-rate-fell-to-52-in-2021-due-to-pandemic-disruptions).
+A major contributor to this problem is the difficulty in **identifying recyclables** at the point of disposal. A 2018 report by the Singapore Environment Council found that **nearly 70% of Singapore residents** lack sufficient knowledge about which plastics can be recycled. Given that plastics are one of the most common waste types, this high percentage suggests that many individuals also **struggle with identifying recyclability across other materials**, leading to improper waste disposal and contamination in recycling bins [(Westford Online, 2023)](https://www.westfordonline.com/blogs/singapores-plastic-predicament-unravelling-the-environmental-challenge/). Contaminated recyclables reduce processing efficiency and increase waste sent to **Semakau Landfill**, which is projected to reach full capacity by **2035** [(Straits Times, 2022)](https://www.straitstimes.com/singapore/singapore-recycling-rate-fell-to-52-in-2021-due-to-pandemic-disruptions).
 
-To address this issue, our project introduces an **waste classification system integrated with a Telegram bot**. This allows users to **take a picture of their waste item**, receive an instant classification result, and get guidance on **proper disposal methods**.
+To address this issue, our project introduces a **waste classification system integrated with a Telegram bot**. This allows users to **take a picture of their waste item**, receive an instant classification result, and get guidance on **proper disposal methods**.
+
 
 ---
 
