@@ -23,7 +23,7 @@ The system helps users determine whether a waste item is recyclable or not by an
 ## Problem Statement
 Singapore generates approximately **7.39 million tonnes of waste annually**, yet only **57% is recycled** as of 2022 [(NEA, 2023)](https://www.nea.gov.sg/media/news/news/index/waste-generation-and-recycling-rates-increased-in-2022-as-economic-activity-picked-up). One of the main issues is **improper waste segregation**, where recyclable materials end up in general waste due to human error and lack of awareness.
 
-A major contributor to this problem is the difficulty in **identifying recyclables** at the point of disposal. A 2018 report by the Singapore Environment Council found that **nearly 70% of Singapore residents** lack sufficient knowledge about which plastics can be recycled. Given that plastics are one of the most common waste types, this high percentage suggests that many individuals may also **struggle with identifying recyclability across other materials**, leading to improper waste disposal [(Westford Online, 2023)](https://www.westfordonline.com/blogs/singapores-plastic-predicament-unravelling-the-environmental-challenge/). Contaminated recyclables reduce processing efficiency and increase waste sent to **Semakau Landfill**, which is projected to reach full capacity by **2035** [(Channel News Asia, (2024)](https://www.channelnewsasia.com/singapore/semakau-landfill-filling-waste-management-incineration-reduce-reuse-recycle-3909436).
+A major contributor to this problem is the difficulty in **identifying recyclables** at the point of disposal. A 2018 report by the Singapore Environment Council found that **nearly 70% of Singapore residents** lack sufficient knowledge about which plastics can be recycled. Given that plastics are one of the most common waste types, this high percentage suggests that many individuals may also **struggle with identifying recyclability across other materials**, leading to improper waste disposal [(Westford Online, 2023)](https://www.westfordonline.com/blogs/singapores-plastic-predicament-unravelling-the-environmental-challenge/). Contaminated recyclables reduce processing efficiency and increase waste sent to **Semakau Landfill**, which is projected to reach full capacity by **2035** [(Channel News Asia, 2024)](https://www.channelnewsasia.com/singapore/semakau-landfill-filling-waste-management-incineration-reduce-reuse-recycle-3909436).
 
 To address this issue, our project introduces a **waste classification system integrated with a Telegram bot**. This allows users to **take a picture of their waste item**, receive an instant classification result, and get guidance on **proper disposal methods**.
 
@@ -84,16 +84,15 @@ This project bridges **technology and environmental conservation**, empowering i
 ## References
 1. **National Environment Agency (NEA) - Waste Statistics and Recycling Rates (2023)**  
    🔗 [https://www.nea.gov.sg/media/news/news/index/waste-generation-and-recycling-rates-increased-in-2022-as-economic-activity-picked-up](https://www.nea.gov.sg/media/news/news/index/waste-generation-and-recycling-rates-increased-in-2022-as-economic-activity-picked-up)  
-   
-2. **Channel News Asia (2024) - Semakau Landfill Reaching Capacity & Waste Management Efforts**  
-   🔗 [https://www.channelnewsasia.com/singapore/semakau-landfill-filling-waste-management-incineration-reduce-reuse-recycle-3909436](https://www.channelnewsasia.com/singapore/semakau-landfill-filling-waste-management-incineration-reduce-reuse-recycle-3909436)  
 
-3. **SG Green Plan 2030 - Sustainable Waste Management**  
-   🔗 [https://www.greenplan.gov.sg/](https://www.greenplan.gov.sg/)  
-
-4. **Westford Online (2023) - Singapore’s Plastic Recycling Challenge**  
+2. **Westford Online (2023) - Singapore’s Plastic Recycling Challenge**  
    🔗 [https://www.westfordonline.com/blogs/singapores-plastic-predicament-unravelling-the-environmental-challenge/](https://www.westfordonline.com/blogs/singapores-plastic-predicament-unravelling-the-environmental-challenge/)  
 
+3. **Channel News Asia (2024) - Semakau Landfill Reaching Capacity & Waste Management Efforts**  
+   🔗 [https://www.channelnewsasia.com/singapore/semakau-landfill-filling-waste-management-incineration-reduce-reuse-recycle-3909436](https://www.channelnewsasia.com/singapore/semakau-landfill-filling-waste-management-incineration-reduce-reuse-recycle-3909436)  
+
+4. **SG Green Plan 2030 - Sustainable Waste Management**  
+   🔗 [https://www.greenplan.gov.sg/](https://www.greenplan.gov.sg/)  
 
 ---
 
