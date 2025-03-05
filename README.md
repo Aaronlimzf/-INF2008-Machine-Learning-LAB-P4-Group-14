@@ -16,7 +16,7 @@ To achieve high classification accuracy, the project utilizes three machine lear
 - **Random Forest (RF)**
 - **Support Vector Machine (SVM)**  
 
-The system processes waste data, trains models using machine learning, and predicts the waste category for proper disposal or recycling. This initiative aims to support waste management facilities, smart cities, and environmental sustainability programs by automating waste segregation processes.
+The system helps users determine whether a waste item is recyclable or not by analyzing images and providing instant feedback. By integrating machine learning and a Telegram bot, it simplifies waste sorting and encourages proper disposal habits, making recycling more accessible and convenient.
 
 ---
 
