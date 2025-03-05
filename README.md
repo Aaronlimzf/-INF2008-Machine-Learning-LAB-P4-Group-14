@@ -21,11 +21,12 @@ The system helps users determine whether a waste item is recyclable or not by an
 ---
 
 ## Problem Statement
-Singapore generates approximately **7.39 million tonnes of waste annually**, yet only **55% is recycled** as of 2022 [(NEA, 2023)](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-statistics-and-overall-recycling). One of the main issues is **improper waste segregation**, where recyclable materials end up in general waste due to human error and lack of awareness.
+Singapore generates approximately **7.39 million tonnes of waste annually**, yet only **55% is recycled** as of 2022 [(NEA, 2023)](https://www.nea.gov.sg/media/news/news/index/waste-generation-and-recycling-rates-increased-in-2022-as-economic-activity-picked-up). One of the main issues is **improper waste segregation**, where recyclable materials end up in general waste due to human error and lack of awareness.
 
-A major contributor to this problem is the difficulty in **identifying recyclables** at the point of disposal. A 2018 report by the Singapore Environment Council found that **nearly 70% of Singapore residents** lack sufficient knowledge about which plastics can be recycled. Given that plastics are one of the most common waste types, this high percentage suggests that many individuals also **struggle with identifying recyclability across other materials**, leading to improper waste disposal and contamination in recycling bins [(Westford Online, 2023)](https://www.westfordonline.com/blogs/singapores-plastic-predicament-unravelling-the-environmental-challenge/). Contaminated recyclables reduce processing efficiency and increase waste sent to **Semakau Landfill**, which is projected to reach full capacity by **2035** [(Straits Times, 2022)](https://www.straitstimes.com/singapore/singapore-recycling-rate-fell-to-52-in-2021-due-to-pandemic-disruptions).
+A major contributor to this problem is the difficulty in **identifying recyclables** at the point of disposal. A 2018 report by the Singapore Environment Council found that **nearly 70% of Singapore residents** lack sufficient knowledge about which plastics can be recycled. Given that plastics are one of the most common waste types, this high percentage suggests that many individuals may also **struggle with identifying recyclability across other materials**, leading to improper waste disposal and contamination in recycling bins [(Westford Online, 2023)](https://www.westfordonline.com/blogs/singapores-plastic-predicament-unravelling-the-environmental-challenge/). Contaminated recyclables reduce processing efficiency and increase waste sent to **Semakau Landfill**, which is projected to reach full capacity by **2035** [(Straits Times, 2024)](https://www.straitstimes.com/singapore/studies-ongoing-to-determine-if-waste-on-semakau-could-be-mined-to-build-tuas-port).
 
 To address this issue, our project introduces a **waste classification system integrated with a Telegram bot**. This allows users to **take a picture of their waste item**, receive an instant classification result, and get guidance on **proper disposal methods**.
+
 
 
 ---
@@ -82,11 +83,16 @@ This project bridges **technology and environmental conservation**, empowering i
 
 ## References
 1. **National Environment Agency (NEA) - Waste Statistics and Recycling Rates (2023)**  
-🔗 [https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-statistics-and-overall-recycling](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-statistics-and-overall-recycling)  
-2. **Straits Times (2022) - Singapore’s Recycling Rate & Landfill Capacity**  
-🔗 [https://www.straitstimes.com/singapore/singapore-recycling-rate-fell-to-52-in-2021-due-to-pandemic-disruptions](https://www.straitstimes.com/singapore/singapore-recycling-rate-fell-to-52-in-2021-due-to-pandemic-disruptions)  
+   🔗 [https://www.nea.gov.sg/media/news/news/index/waste-generation-and-recycling-rates-increased-in-2022-as-economic-activity-picked-up](https://www.nea.gov.sg/media/news/news/index/waste-generation-and-recycling-rates-increased-in-2022-as-economic-activity-picked-up)  
+   
+2. **Straits Times (2024) - Semakau Landfill & Waste Management**  
+   🔗 [https://www.straitstimes.com/singapore/studies-ongoing-to-determine-if-waste-on-semakau-could-be-mined-to-build-tuas-port](https://www.straitstimes.com/singapore/studies-ongoing-to-determine-if-waste-on-semakau-could-be-mined-to-build-tuas-port)  
+
 3. **SG Green Plan 2030 - Sustainable Waste Management**  
-🔗 [https://www.greenplan.gov.sg/](https://www.greenplan.gov.sg/)  
+   🔗 [https://www.greenplan.gov.sg/](https://www.greenplan.gov.sg/)  
+
+4. **Westford Online (2023) - Singapore’s Plastic Recycling Challenge**  
+   🔗 [https://www.westfordonline.com/blogs/singapores-plastic-predicament-unravelling-the-environmental-challenge/](https://www.westfordonline.com/blogs/singapores-plastic-predicament-unravelling-the-environmental-challenge/)  
 
 ---
 
