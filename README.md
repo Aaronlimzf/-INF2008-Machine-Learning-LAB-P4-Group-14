@@ -85,7 +85,7 @@ This project bridges **technology and environmental conservation**, empowering i
 1. **National Environment Agency (NEA) - Waste Statistics and Recycling Rates (2023)**  
    🔗 [https://www.nea.gov.sg/media/news/news/index/waste-generation-and-recycling-rates-increased-in-2022-as-economic-activity-picked-up](https://www.nea.gov.sg/media/news/news/index/waste-generation-and-recycling-rates-increased-in-2022-as-economic-activity-picked-up)  
    
-2. **Straits Times (2024) - Semakau Landfill & Waste Management**  
+2. **Straits Times (2024) - Studies on Semakau Landfill and Waste Management**  
    🔗 [https://www.straitstimes.com/singapore/studies-ongoing-to-determine-if-waste-on-semakau-could-be-mined-to-build-tuas-port](https://www.straitstimes.com/singapore/studies-ongoing-to-determine-if-waste-on-semakau-could-be-mined-to-build-tuas-port)  
 
 3. **SG Green Plan 2030 - Sustainable Waste Management**  
@@ -93,6 +93,7 @@ This project bridges **technology and environmental conservation**, empowering i
 
 4. **Westford Online (2023) - Singapore’s Plastic Recycling Challenge**  
    🔗 [https://www.westfordonline.com/blogs/singapores-plastic-predicament-unravelling-the-environmental-challenge/](https://www.westfordonline.com/blogs/singapores-plastic-predicament-unravelling-the-environmental-challenge/)  
+
 
 ---
 
