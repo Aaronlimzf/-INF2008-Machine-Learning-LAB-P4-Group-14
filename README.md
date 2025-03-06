@@ -4,12 +4,12 @@
 The **Smart Waste Classification System** is designed to identify and categorize waste items to determine their recyclability. With increasing waste production, proper waste segregation plays a crucial role in environmental sustainability. This project leverages data-driven classification techniques to improve recycling efforts by accurately distinguishing between different types of waste.
 
 The system classifies waste into six categories:
-- **Cardboard** – Used for packaging materials, boxes, and cartons.
 - **Glass** – Includes glass bottles, jars, and broken glassware.
 - **Metal** – Comprises aluminum cans, tin containers, and metallic scraps.
 - **Non-recyclable Waste** – Items that cannot be processed for recycling.
-- **Paper** – Newspapers, magazines, office paper, and paperboard.
+- **Paper** – Includes newspapers, magazines, office paper, paperboard, and cardboard.
 - **Plastic** – Includes PET bottles, food containers, and plastic packaging.
+- **E-waste** – Includes Discarded electronic devices such as mobile phones, laptops, batteries, and household appliances.
 
 To achieve high classification accuracy, the project utilizes three machine learning algorithms:
 - **Multi-Layer Perceptron (MLP)**
